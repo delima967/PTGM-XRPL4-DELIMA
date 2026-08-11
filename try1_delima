@@ -1,0 +1,10 @@
+nama = "Delima"
+hobi="membaca"
+umur=16
+perempuan="True"
+beratbadan="3"
+print("====Biodata====")
+print("nama=", nama)
+print("hobi=", hobi)
+print("umur=", umur)
+print("beratbadan=", beratbadan)

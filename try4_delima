@@ -1,0 +1,9 @@
+nilai = 7
+nilai += 6 
+print("Nilai += 6 =", nilai)
+nilai -= 4
+print("Nilai -= 4 =", nilai)
+nilai *= 3 
+print("Nilai *= 3 =", nilai)
+nilai /= 2
+print("Nilai /= 2 =", nilai)
