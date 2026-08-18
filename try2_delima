@@ -1,5 +1,13 @@
-kopi = 15000
-rokok = 30000
-roti = 14000
+A = 0b01101100
+B = 0b10110111
+C = 0b00101001
 
-print("total yang harus dibayar :",kopi+rokok+roti,)
+print("A =", A)
+print("B =", B)
+print("C =", C)
+
+print("A & C =",A & C)
+print("B | A =",B | A)
+print("C ^ B =",C ^ B)
+print("A ^ B | C =",A ^ B | C )
+print("C ^ A ^ B =",C ^ A ^ B)
