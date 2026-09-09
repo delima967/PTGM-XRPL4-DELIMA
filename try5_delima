@@ -1,0 +1,5 @@
+angka=1
+
+while angka <= 3:
+   print("selalu sukses epl!")
+   angka = angka + 1
